@@ -11,8 +11,7 @@ We chose this topic because understanding the relationship between study habits 
 By applying classification and clustering techniques, this project aims to discover distinct student profiles and better understand patterns in academic performance and study habits. This serves as a practical application of data mining in the educational domain and demonstrates how data-driven analysis can provide meaningful insights into student behavior and performance.
 
  ## Team Members
-
-- Juman Abahussain
+- Juman Waleed Abahussain
 - Ghaida Mubarak Bin maadi
 - Jumanah Sulaiman Bin awn
 - Dimah Tariq Bin Ghannam
