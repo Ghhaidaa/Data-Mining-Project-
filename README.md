@@ -15,4 +15,4 @@ By applying classification and clustering techniques, this project aims to disco
 - Ghaida Mubarak Bin maadi
 - Jumanah Sulaiman Bin awn
 - Dimah Tariq Bin Ghannam
-- Nourah fahad alsaif
+- Nourah Fahad Alsaif
