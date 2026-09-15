@@ -13,4 +13,7 @@ By applying classification and clustering techniques, this project aims to disco
  ## Team Members
 
 - Juman Abahussain
-- Ghaida Mubarak Bin maadi 
+- Ghaida Mubarak Bin maadi
+- Jumanah Sulaiman Bin awn
+- Dimah Tariq Bin Ghannam
+- Nourah fahad alsaif
