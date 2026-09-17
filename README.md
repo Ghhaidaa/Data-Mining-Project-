@@ -1,8 +1,7 @@
 # Student Performance and Study Habits
 ## Project Description
 
-This project aims to analyze student performance and study habits using data mining techniques. By leveraging behavioral and academic attributes such as study time, attendance, sleep hours, and previous grades, the project applies classification techniques to categorize students based on their final academic performance.
-In addition, clustering methods are utilized to group students with similar study routines and characteristics. By combining these approaches, the project uncovers patterns in student behavior and performance, providing valuable insights into different student profiles and study habits.
+This project aims to analyze student performance and study habits using data mining techniques. By leveraging behavioral and academic attributes such as study time, attendance, sleep hours, and previous grades, the project applies classification techniques to categorize students based on their final academic performance. The main objective is to identify patterns in students study habits and academic characteristics that are associated with their academic performance. In addition, clustering methods are utilized to group students with similar study routines and characteristics, providing valuable insights into different student profiles and study habits.
 
 
 ## Project Motivation
